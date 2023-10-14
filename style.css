@@ -1,0 +1,48 @@
+body
+{
+    font-family: 'Tilt Neon', sans-serif;
+}
+.heading
+{
+width: 100%;
+text-align: center;
+background-color: rgb(130, 112, 145);
+}
+.heading h3{
+    display: inline;
+}
+
+.heading button{
+    float: right;
+    border: 1px solid white;
+    background-color: rgb(130, 112, 145);
+}
+
+#start ,#status, #restart
+{
+font-size: 22px;
+background-color: rgb(130, 112, 145);
+border-radius: 25px;
+}
+
+.modal-dialog
+{
+    width: 70%;
+}
+.modal-body
+{
+    text-align: left;
+    font-size: 20px;
+}
+h4
+{
+    background-color: rgb(130, 112, 145);
+   color:white;
+   line-height: 2;
+}
+canvas 
+  {
+      border:3px solid white;
+      border-radius: 20px;
+      box-shadow:  5px 5px 5px white;
+  }
